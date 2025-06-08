@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привіт! Я ghnt</h1>
+<h1 align="center">👋 Привіт! Я Yigorka</h1>
 
 <p align="center">
   🌼 Розробник Unity-ігор, ентузіаст WPF <br>
