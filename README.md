@@ -18,4 +18,4 @@
 + 🟢 Unity / C#
 + 🟢 WPF / .NET / XAML
 + 🟢 HTML / CSS / PHP
-+ 🟢 Git / GitHub / VS / Rider
++ 🟢 Git / GitHub / VS / VS Code
