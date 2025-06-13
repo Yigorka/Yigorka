@@ -1,35 +1,21 @@
-<h1 align="center">👋 Привіт! Я Yigorka</h1>
+<h1 align="center">💻 Yigorka in Matrix Mode</h1>
 
 <p align="center">
-  🌼 Розробник Unity-ігор, ентузіаст WPF <br>
-  🧠 Люблю створювати мінімалістичні додатки з емоційною глибиною <br>
-  💡 Захоплююсь UI/UX, анімацією та життям простих ідей
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AFF00&center=true&vCenter=true&width=435&lines=Unity+Developer;WPF+Enthusiast;Emotional+Minimalism;Matrix+Mode+Active..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Технології
-- 💻 C#, .NET, WPF
-- 🎮 Unity, UI
-- 🌐 HTML, CSS, PHP
+### 🧠 About Me:
+- 💀 Unity developer wandering the matrix
+- 🌱 Passionate about emotional minimalism and intuitive interaction
+- ✨ UI/UX explorer, lover of visual storytelling
 
 ---
 
-### 🔥 Мої проєкти (Частина вже доступна в Google Play)
-- 🌼 **Romashka** — гра-гадання на ромашці (Unity)
-- 🧩 **Tap Tap Seed** — гра про сємєчки (Unity)
-
----
-
-### 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghnt&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghnt&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Як зв'язатися
-- Email: `yigorka812@gmail.com`
+### 🛠️ Tech Stack:
+```diff
++ 🟢 Unity / C#
++ 🟢 WPF / .NET / XAML
++ 🟢 HTML / CSS / PHP
++ 🟢 Git / GitHub / VS / Rider
