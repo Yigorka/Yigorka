@@ -6,10 +6,10 @@
 
 ---
 
-### 🧠 About Me:
-- 💀 Unity developer
-- 🌱 Passionate about emotional minimalism and intuitive interaction
-- ✨ UI/UX explorer, lover of visual storytelling
+### About Me:
+- Unity developer
+- Passionate about emotional minimalism and intuitive interaction
+- UI/UX explorer, lover of visual storytelling
 
 ---
 
