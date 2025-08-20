@@ -1,7 +1,7 @@
 <h1 align="center">Yigorka</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AFF00&center=true&vCenter=true&width=435&lines=Unity+Developer;WPF+Enthusiast;Emotional+Minimalism" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AFF00&center=true&vCenter=true&width=435&lines=Unity+Developer;Android+Studio;Minimalism" alt="Typing SVG" />
 </p>
 
 ---
