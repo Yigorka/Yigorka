@@ -7,9 +7,7 @@
 ---
 
 ### About Me:
-- Unity developer
-- Passionate about emotional minimalism and intuitive interaction
-- UI/UX explorer, lover of visual storytelling
+- Games/Apps developer
 
 ---
 
@@ -18,4 +16,4 @@
 + 🟢 Unity / C#
 + 🟢 WPF / .NET / XAML
 + 🟢 HTML / CSS / PHP
-+ 🟢 Git / GitHub / VS / VS Code
++ 🟢 Android Studio / Java / Kotlin
